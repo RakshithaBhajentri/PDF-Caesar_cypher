@@ -11,7 +11,8 @@
         <li>🔍 Extracts text from the PDF</li>
         <li>🔑 Encrypts text using the Caesar Cipher</li>
         <li>📑 Outputs an encrypted text PDF</li>
-    </ul
+    </ul>
+    <h4>Technologies used</h4>
     <ul>
         <li>Python</li>
         <li>PyPDF2 (for PDF processing)</li>
